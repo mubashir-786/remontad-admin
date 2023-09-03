@@ -13,6 +13,11 @@ export const MENU = [
     title: 'Users',
   },
   {
+    href: '/vendors',
+    icon: <SignalCellularAlt2BarIcon />,
+    title: 'Vendors',
+  },
+  {
     href: '/payments',
     icon: <SignalCellularAlt2BarIcon />,
     title: 'Payments',
